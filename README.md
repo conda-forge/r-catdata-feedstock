@@ -1,11 +1,11 @@
-About r-catdata
-===============
+About r-catdata-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-catdata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=catdata
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-catdata-feedstock/blob/main/LICENSE.txt)
 
 Summary: This R-package contains examples from the book "Regression for Categorical Data", Tutz 2012, Cambridge University Press. The names of the examples refer to the chapter and the data set that is used.
 
